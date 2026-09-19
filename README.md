@@ -1,8 +1,11 @@
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=26&duration=2800&pause=900&color=1D4ED8&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Moosa+Ahmed;Final-Year+CS+Student%2C+WLU;Building%2C+Learning%2C+Shipping)](https://moosa1ahmed-ctrl.github.io/Portfolio/)
-
+ 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://moosa1ahmed-ctrl.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moosa-ahmed-/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moosa1ahmed@gmail.com)
+ 
+</div>
 
 ### Welcome 👋
 
